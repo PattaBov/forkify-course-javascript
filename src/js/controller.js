@@ -139,4 +139,3 @@ const init = function () {
   newFeature();
 };
 init();
-model.clearBookmarks();
